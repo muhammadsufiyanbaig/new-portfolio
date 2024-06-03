@@ -79,7 +79,7 @@ export const projectsData = [
     projectLink: "https://github.com/muhammadsufiyanbaig/Authentication"
   },
   {
-    title: "Authentication System",
+    title: "Full-Stack Quiz",
     description:
       "A full-stack Quiz Application using React.js and Tailwind CSS for the frontend, Express.js with SQLite for the backend, and middleware for secure authorization.",
     tags: ["React", "Tailwind", "Javascript", "Express.js", "SQLite", "JWT"],
