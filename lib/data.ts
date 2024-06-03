@@ -5,7 +5,8 @@ import { LuGraduationCap } from "react-icons/lu";
 import Ecommerce from "@/public/Ecommerce.jpg";
 import PictureGallery from "@/public/PictureGallery.jpg";
 import ExpenseTracker from "@/public/ExpenseTracker.jpg";
-
+import LoginSignup from "@/public/LoginSignup.jpg"
+import Quiz from "@/public/Quiz.jpg"
 export const links = [
   {
     name: "Home",
@@ -46,6 +47,14 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "Rupeeya Expense Tracker",
+    description:
+      "This is a Expense Tracker. It is built using React.js, Tailwind CSS, JS and Chart.js. It is hosted on Vercel.",
+    tags: ["React", "Tailwind", "Javascript"],
+    imageUrl: ExpenseTracker,
+    projectLink: "https://rupeeya.vercel.app/"
+  },
+  {
     title: "Next Commerce",
     description:
       "This is a Next.js e-commerce website. It is built using Next.js, Tailwind CSS and Sanity.io. It is hosted on Vercel.",
@@ -62,12 +71,20 @@ export const projectsData = [
     projectLink: "https://gallerygrid.vercel.app/"
   },
   {
-    title: "Rupeeya Expense Tracker",
+    title: "Authentication System",
     description:
-      "This is a Expense Tracker. It is built using React.js, Tailwind CSS, JS and Chart.js. It is hosted on Vercel.",
-    tags: ["React", "Tailwind", "Javascript"],
-    imageUrl: ExpenseTracker,
-    projectLink: "https://rupeeya.vercel.app/"
+      "This project is an authentication system with React.js front end, Express.js back end, and SQLite database.",
+    tags: ["React", "Tailwind", "Javascript", "Express.js", "SQLite", "JWT"],
+    imageUrl: LoginSignup,
+    projectLink: "https://github.com/muhammadsufiyanbaig/Authentication"
+  },
+  {
+    title: "Authentication System",
+    description:
+      "A full-stack Quiz Application using React.js and Tailwind CSS for the frontend, Express.js with SQLite for the backend, and middleware for secure authorization.",
+    tags: ["React", "Tailwind", "Javascript", "Express.js", "SQLite", "JWT"],
+    imageUrl: Quiz,
+    projectLink: "https://github.com/muhammadsufiyanbaig/Middleware-Quiz"
   },
 ] as const;
 

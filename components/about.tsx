@@ -32,7 +32,7 @@ export default function About() {
 </p>
 
 <p>
-  <span className="italic">When I'm not coding</span>, I enjoy exploring new technologies, especially in the fields of AI and data science. 
+  <span className="italic">When I'm not development</span>, I enjoy exploring new technologies, especially in the fields of AI and data science. 
   I am currently working towards a certification in 
   <span className="font-medium"> Cloud Applied Generative AI Engineering</span>. 
   I am currently pursuing a <span className="font-medium"> Bachelor's degree in Data Science </span> from Sindh Madarsatul Islam University <span className="font-medium"> (SMIU)</span>.
