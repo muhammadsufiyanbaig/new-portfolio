@@ -103,7 +103,7 @@ export const skillsData = [
   "Groq",
   "Sanity.io",
   "Express",
-  "Vercel Postgress",
+  "Neon Postgress",
   "Python",
   "FastAPI",
   "Framer Motion",
