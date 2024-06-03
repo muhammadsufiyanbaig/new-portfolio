@@ -37,7 +37,7 @@ export const links = [
 export const experiencesData = [
   {
     title: "Full-Stack Intern",
-    location: "Karachi, Pakistan",
+    location: "Panacloud Pvt Ltd",
     description:
       "I'm now a full-stack intern working at Panacloud. My stack includes React, Next.js, TypeScript, Tailwind, Firebase, Express.js and SQLite. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
