@@ -37,7 +37,7 @@ export const links = [
 export const experiencesData = [
   {
     title: "Full-Stack Intern",
-    location: "Karachi, Pakistan",
+    location: "Panacloud Pvt Ltd",
     description:
       "I'm now a full-stack intern working at Panacloud. My stack includes React, Next.js, TypeScript, Tailwind, Firebase, Express.js and SQLite. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
@@ -79,7 +79,7 @@ export const projectsData = [
     projectLink: "https://github.com/muhammadsufiyanbaig/Authentication"
   },
   {
-    title: "Authentication System",
+    title: "Full-Stack Quiz",
     description:
       "A full-stack Quiz Application using React.js and Tailwind CSS for the frontend, Express.js with SQLite for the backend, and middleware for secure authorization.",
     tags: ["React", "Tailwind", "Javascript", "Express.js", "SQLite", "JWT"],
@@ -103,7 +103,7 @@ export const skillsData = [
   "Groq",
   "Sanity.io",
   "Express",
-  "Vercel Postgress",
+  "Neon Postgress",
   "Python",
   "FastAPI",
   "Framer Motion",
