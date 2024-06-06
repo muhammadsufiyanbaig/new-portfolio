@@ -112,6 +112,7 @@ export default function Intro() {
         >
           <FaGithubSquare />
         </a>
+
       </motion.div>
     </section>
   );
