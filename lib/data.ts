@@ -7,6 +7,7 @@ import PictureGallery from "@/public/PictureGallery.jpg";
 import ExpenseTracker from "@/public/ExpenseTracker.jpg";
 import LoginSignup from "@/public/LoginSignup.jpg"
 import Quiz from "@/public/Quiz.jpg"
+import CryptoFleet from "@/public/Cryptofleet.jpg"
 export const links = [
   {
     name: "Home",
@@ -91,7 +92,7 @@ export const projectsData = [
     description:
       "I am currently working on Cryptofleet.io, a crypto trading platform is building on Next.js.",
     tags: ["React", "Tailwind", "Typescript", "Next.js"],
-    imageUrl: Quiz,
+    imageUrl: CryptoFleet,
     projectLink: "https://www.cryptofleet.io/"
   },
 ] as const;
