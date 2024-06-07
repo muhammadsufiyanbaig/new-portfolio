@@ -86,6 +86,14 @@ export const projectsData = [
     imageUrl: Quiz,
     projectLink: "https://github.com/muhammadsufiyanbaig/Middleware-Quiz"
   },
+  {
+    title: "Cryptofleet.io",
+    description:
+      "I am currently working on Cryptofleet.io, a crypto trading platform is building on Next.js.",
+    tags: ["React", "Tailwind", "Typescript", "Next.js"],
+    imageUrl: Quiz,
+    projectLink: "https://www.cryptofleet.io/"
+  },
 ] as const;
 
 export const skillsData = [
